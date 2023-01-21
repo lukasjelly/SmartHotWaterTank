@@ -24,10 +24,10 @@ csvfile = "metric.csv"
 # Using globals to simplify sample code
 thing_name = "hotWaterTank"
 client_id = "hotWaterTank-app"
-endpoint = "a3d4vom7l3pb3o-ats.iot.ap-southeast-2.amazonaws.com"
-client_certificate = "/home/pi/Documents/Assignment1/Credentials/9c30dccd4b2e30508a33e1fc1216a8a2c710c1ee8647f90b798647d9f96389df-certificate.pem.crt"
-client_private_key = "/home/pi/Documents/Assignment1/Credentials/9c30dccd4b2e30508a33e1fc1216a8a2c710c1ee8647f90b798647d9f96389df-private.pem.key"
-root_ca = "/home/pi/Documents/Assignment1/Credentials/AmazonRootCA1.pem"
+endpoint = "xx"
+client_certificate = "xx"
+client_private_key = "xx"
+root_ca = "xx"
 
 is_sample_done = threading.Event()
 
